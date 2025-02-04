@@ -1,0 +1,28 @@
+[
+    {
+        "inputs": [
+            {
+                "internalType": "address",
+                "name": "newConsumer",
+                "type": "address"
+            }
+        ],
+        "name": "addConsumerr",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    },
+    {
+        "inputs": [],
+        "name": "isConsumer",
+        "outputs": [
+            {
+                "internalType": "bool",
+                "name": "",
+                "type": "bool"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    }
+]
